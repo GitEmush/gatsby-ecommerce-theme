@@ -1,4 +1,4 @@
-E-commerce  designed by Matter](https://user-images.githubusercontent.com/43764894/223762927-2e463570-b09a-4d51-ab81-2e0fa8aa2c70.png)
+E-commerce  designed by GitEmush]([![20250803-110107.png](https://i.postimg.cc/WpmTqHvB/20250803-110107.png)](https://postimg.cc/z3f99p37))
 
 This beautiful theme from the [Matter Design Team](https://matterdesign.com.au/) gives you the styling and scaffolding for your next e-commerce site. You can customize to your heart's content and add the tooling for cart, transactions, product, and more. This theme uses:
 
