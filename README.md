@@ -40,7 +40,7 @@ Click the button below and it will help you create a new repo, create a new Netl
     - Click the 'Use this template' button at the top of the page
     - Via the command line:
        ```shell
-       git clone https://github.com/netlify-templates/gatsby-ecommerce-theme/
+       git clone https://github.com/netlify-templates/gitemush-ecommerce-theme/
        ```
     - Or you can clone the theme straight from the Netlify CLI, using the `netlify sites:create-template` command in your terminal ([learn more about this command here](https://www.netlify.com/blog/create-a-site-from-a-template-using-the-netlify-cli)) to do the entire flow for you.
 
