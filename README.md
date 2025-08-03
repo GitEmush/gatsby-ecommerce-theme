@@ -1,6 +1,6 @@
 E-commerce  designed by GitEmush]([![20250803-110107.png](https://i.postimg.cc/WpmTqHvB/20250803-110107.png)](https://postimg.cc/z3f99p37))
 
-This beautiful theme from the [Matter Design Team](https://matterdesign.com.au/) gives you the styling and scaffolding for your next e-commerce site. You can customize to your heart's content and add the tooling for cart, transactions, product, and more. This theme uses:
+This beautiful theme from the [GitEmush Design Team](https://matterdesign.com.au/) gives you the styling and scaffolding for your next e-commerce site. You can customize to your heart's content and add the tooling for cart, transactions, product, and more. This theme uses:
 
 - [Gatsby](https://www.gatsbyjs.com/)
 - [CSS Modules](https://github.com/css-modules/css-modules)
